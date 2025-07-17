@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti-Hacking Animation" width="400"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdulla Mazhar</h1>
 <h3 align="center">Bridging tech and logistics — frontend enthusiast with a supply chain brain.</h3>
 
