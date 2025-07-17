@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti-Hacking Animation" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Anti-Hacking Animation" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdulla Mazhar</h1>
